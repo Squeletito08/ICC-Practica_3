@@ -4,7 +4,7 @@ Introducción a Ciencias de la Computación
 Práctica 3: Recursión
 ---------------------
 
-### Fecha de entrega: martes 20 de marzo, 2022
+### Fecha de entrega: martes 20 de septiembre, 2022
 
 Al igual que en la práctica anterior, deben implementar los métodos faltantes de
 la clase
